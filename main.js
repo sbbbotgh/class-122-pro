@@ -7,7 +7,7 @@ speak_data = "";
 to_number = "";
 
 function preload(){
-  apple = loadImage('apple.png');
+  apple = loadImage('https://sbbbotgh.github.io/class-122-pro/apple.png');
 }
 
 draw_apple = "";
